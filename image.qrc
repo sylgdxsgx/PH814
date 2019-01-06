@@ -1,0 +1,35 @@
+<RCC>
+  <qresource prefix="image">
+    <file>icons/trayIcon.ico</file>
+    <file>icons/window_icon.png</file>
+    <file>icons/loginbackground.png</file>
+    <file>icons/searchList.png</file>
+    <file>icons/searchMain.png</file>
+    <file>icons/set.png</file>
+    <file>icons/closed.png</file>
+    <file>icons/Group.png</file>
+    <file>icons/lowb.png</file>
+    <file>icons/mac.png</file>
+    <file>icons/Milestone.png</file>
+    <file>icons/orange_Delayed.png</file>
+    <file>icons/orange_Devfixed.png</file>
+    <file>icons/orange_New.png</file>
+    <file>icons/orange_Rejected.png</file>
+    <file>icons/pink_Devfixed.png</file>
+    <file>icons/pink_New.png</file>
+    <file>icons/Project.png</file>
+    <file>icons/red_Delayed.png</file>
+    <file>icons/red_Devfixed.png</file>
+    <file>icons/red_New.png</file>
+    <file>icons/red_Rejected.png</file>
+    <file>icons/sky_Delayed.png</file>
+    <file>icons/sky_New.png</file>
+    <file>icons/Tag.png</file>
+    <file>icons/Updating.gif</file>
+    <file>icons/User.png</file>
+    <file>icons/yellow_Delayed.png</file>
+    <file>icons/yellow_Devfixed.png</file>
+    <file>icons/yellow_New.png</file>
+    <file>icons/yellow_Rejected.png</file>
+  </qresource>
+</RCC>
